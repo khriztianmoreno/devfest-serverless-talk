@@ -1,4 +1,5 @@
 # DEVFEST Colombia 2020 - Serverless Cloud Functions
+Example project built for DEVFest Colombia 2020 with the purpose of teaching the use of Serverless through Cloud Functions
 
 ## Create from scratch
 
